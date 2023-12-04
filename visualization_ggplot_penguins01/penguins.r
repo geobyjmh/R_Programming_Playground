@@ -1,3 +1,5 @@
+#This example uses code taken from the book “R for Data Science”
+#by Wickham, Cetinkaya-Rundel, and Grolemund.
 library(tidyverse)
 library(palmerpenguins)
 library(ggthemes)
