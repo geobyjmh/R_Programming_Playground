@@ -20,9 +20,16 @@ filter(), distinct(), arrange()
 ## Group Operations
 group_by(), summarise(), count()
 
+# Data_Tidying01
+Variables, Observations, Values
+pivot_longer(), pivot_wider()
 
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
 https://amzn.eu/d/1dTMDCI
 
 YouTube - Dplyr Essentials (easy data manipulation in R): select, mutate, filter, group_by, summarise, & more https://youtu.be/Gvhkp-Yw65U?si=mIJccdZqrJ0SuPEv
+
+YouTube - Use pivot_longer() to shape and manipulate your data. https://youtu.be/odXz0_y4tjg?si=PQGP0WX6zr3dUgJf
+
+YouYube - Use pivot_wider() to shape your data. https://youtu.be/xOipLOxGrzU?si=4BXvNZeustBygvSG
