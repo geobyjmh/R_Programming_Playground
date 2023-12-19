@@ -27,6 +27,8 @@ pivot_longer(), pivot_wider()
 # MeasurmentFromStroud
 This is a small script that plays with dplyr to build a standard deviation calculation. The calculation was taken from the book Engineering Mathematics by K.A. stroud. 
 
+# explore_data
+look at view(), glimpse(), head(), class(), length(), names(), unique(), complete.cases()
 
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
