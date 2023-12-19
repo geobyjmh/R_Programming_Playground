@@ -31,3 +31,4 @@ missing <- !complete.cases(msleep)
 
 # Subset the dataset to keep only rows with missing data for further analysis
 msleep[missing, ]
+
