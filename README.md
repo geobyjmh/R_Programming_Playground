@@ -21,12 +21,18 @@ filter(), distinct(), arrange()
 group_by(), summarise(), count()
 
 # Data_Tidying01
-Variables, Observations, Values
+Variables, Observations, Values <br />
 pivot_longer(), pivot_wider()
+
+# MeasurmentFromStroud
+This is a small script that plays with dplyr to build a standard deviation calculation. The calculation was taken from the book Engineering Mathematics by K.A. stroud. 
+
 
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
 https://amzn.eu/d/1dTMDCI
+
+Book - "Engineering Mathematics" by K.A. Stroud https://amzn.eu/d/hs3n0r2
 
 YouTube - Dplyr Essentials (easy data manipulation in R): select, mutate, filter, group_by, summarise, & more https://youtu.be/Gvhkp-Yw65U?si=mIJccdZqrJ0SuPEv
 
