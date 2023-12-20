@@ -43,8 +43,8 @@ YouTube - Dplyr Essentials (easy data manipulation in R): select, mutate, filter
 
 YouTube - Use pivot_longer() to shape and manipulate your data. https://youtu.be/odXz0_y4tjg?si=PQGP0WX6zr3dUgJf
 
-YouYube - Use pivot_wider() to shape your data. https://youtu.be/xOipLOxGrzU?si=4BXvNZeustBygvSG
+YouTube - Use pivot_wider() to shape your data. https://youtu.be/xOipLOxGrzU?si=4BXvNZeustBygvSG
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eR-XRSKsuR4?si=4acktYkd5bpxy3Om" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+YouTube - R programming in one hour - a crash course for beginners https://youtu.be/eR-XRSKsuR4?si=KjDV7bcCxLMIElec
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-mGXnm0fHtI?si=ak3ud4-tsGr_Lonx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+YouTube - Linear regression using R programming. https://youtu.be/-mGXnm0fHtI?si=bEXRf0m3JQC9Ju0u
