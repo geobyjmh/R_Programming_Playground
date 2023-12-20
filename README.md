@@ -30,6 +30,9 @@ This is a small script that plays with dplyr to build a standard deviation calcu
 # explore_data
 look at view(), glimpse(), head(), class(), length(), names(), unique(), complete.cases()
 
+## regression
+This is were I have played with linear regression. You can change the speard of the random numbers for y = x+random and see how this effect the p-value, R2 valuse and the residuals.
+
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
 https://amzn.eu/d/1dTMDCI
@@ -43,3 +46,5 @@ YouTube - Use pivot_longer() to shape and manipulate your data. https://youtu.be
 YouYube - Use pivot_wider() to shape your data. https://youtu.be/xOipLOxGrzU?si=4BXvNZeustBygvSG
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eR-XRSKsuR4?si=4acktYkd5bpxy3Om" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-mGXnm0fHtI?si=ak3ud4-tsGr_Lonx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
