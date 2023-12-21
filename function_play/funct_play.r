@@ -7,7 +7,6 @@ init_variables <-function()
 read_number <-function()
 {
   valid_number <-FALSE
-  #numeric_value <- 0
   while(!valid_number)
   {
     string_input <- readline(prompt = "Enter a number: ")
