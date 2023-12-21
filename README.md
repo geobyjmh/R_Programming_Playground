@@ -30,8 +30,11 @@ This is a small script that plays with dplyr to build a standard deviation calcu
 # explore_data
 look at view(), glimpse(), head(), class(), length(), names(), unique(), complete.cases()
 
-## regression
+# regression
 This is were I have played with linear regression. You can change the speard of the random numbers for y = x+random and see how this effect the p-value, R2 valuse and the residuals.
+
+# function_play
+This program starts to use functions. I also explore global variables, if else statements, while loops, seq, and reading numbers as user input. 
 
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
