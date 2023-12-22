@@ -36,6 +36,9 @@ This is were I have played with linear regression. You can change the speard of 
 # function_play
 This program starts to use functions. I also explore global variables, if else statements, while loops, seq, and reading numbers as user input. 
 
+# Quarto
+I used some of the code from regression to create a document using Quarto
+
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
 https://amzn.eu/d/1dTMDCI
@@ -51,3 +54,5 @@ YouTube - Use pivot_wider() to shape your data. https://youtu.be/xOipLOxGrzU?si=
 YouTube - R programming in one hour - a crash course for beginners https://youtu.be/eR-XRSKsuR4?si=KjDV7bcCxLMIElec
 
 YouTube - Linear regression using R programming. https://youtu.be/-mGXnm0fHtI?si=bEXRf0m3JQC9Ju0u
+
+YouTube - Quarto - replacing R Markdown in R Studio. https://youtu.be/GIqpYO4xinc?si=Z80e7Xb_it83jqOD

@@ -1,0 +1,59 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+```{r message=FALSE,  warning = FALSE}
+library(tidyverse)
+```
+
+## Data Set
+
+For this first example of Quarto I first need to create a data set. The data is based on the equation of a straight line with some random error (randmax and randmin) to make the data more interesting.
+
+```{r message=FALSE,  warning = FALSE}
+randmax = 5
+randmin = -1 * randmax
+x_range <- 10:100
+m <- 2 
+y_values <- m * x_range + runif(length(x_range), min = randmin, max = randmax)
+
+data <- data.frame(x = x_range, y = y_values)
+write.csv(data, file = "data.csv", row.names = FALSE)
+```
+
+# Examine
+
+Let examine the data I created using the names() and glimpse() functions.
+
+```{r message=FALSE,  warning = FALSE}
+data1 <- read_csv("data.csv", col_types = cols(x =col_double() , y = col_double()))
+names(data1)
+glimpse(data1)
+```
+
+# Graph
+
+Now lets have a look at what the output looks like.
+
+```{r echo = FALSE, message=FALSE,  warning = FALSE}
+data1 %>% 
+  ggplot(aes(x, y),)+
+  geom_point(color = "red") +
+  geom_smooth(method = "lm", color = "blue")
+```
+
+# Regression
+
+Finally I will do a regression
+
+```{r message=FALSE,  warning = FALSE}
+data1 %>% 
+  lm(y ~ x, data = .) %>% 
+  summary()
+```
