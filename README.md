@@ -39,6 +39,9 @@ This program starts to use functions. I also explore global variables, if else s
 # Quarto
 I used some of the code from regression to create a document using Quarto
 
+# visualization_ggplot03
+Lots of diffrent ggplot examples taken from the book "R for Data Science"
+
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
 https://amzn.eu/d/1dTMDCI
@@ -56,3 +59,7 @@ YouTube - R programming in one hour - a crash course for beginners https://youtu
 YouTube - Linear regression using R programming. https://youtu.be/-mGXnm0fHtI?si=bEXRf0m3JQC9Ju0u
 
 YouTube - Quarto - replacing R Markdown in R Studio. https://youtu.be/GIqpYO4xinc?si=Z80e7Xb_it83jqOD
+
+RWeekly.org https://rweekly.org/
+
+tidyverse blog https://www.tidyverse.org/blog/
