@@ -40,7 +40,7 @@ This program starts to use functions. I also explore global variables, if else s
 I used some of the code from regression to create a document using Quarto
 
 # visualization_ggplot03
-Lots of diffrent ggplot examples taken from the book "R for Data Science"
+Lots of diffrent ggplot examples taken from the book "R for Data Science". I have also created my own boxplot function that will manually set its parameters. 
 
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
