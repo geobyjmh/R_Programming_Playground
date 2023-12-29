@@ -42,6 +42,10 @@ I used some of the code from regression to create a document using Quarto
 # visualization_ggplot03
 Lots of diffrent ggplot examples taken from the book "R for Data Science". I have also created my own boxplot function that will manually set its parameters. 
 
+# ExploratoryDataAnalysis
+This is a look at the diamonds data set and how the price changes with cut, color, 
+and caret.
+
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
 https://amzn.eu/d/1dTMDCI
