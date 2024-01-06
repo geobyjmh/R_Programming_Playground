@@ -46,6 +46,9 @@ Lots of diffrent ggplot examples taken from the book "R for Data Science". I hav
 This is a look at the diamonds data set and how the price changes with cut, color, 
 and caret.
 
+# ConfidanceIntervals
+This is a play with calculation and displaying Confidence Intervals
+
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
 https://amzn.eu/d/1dTMDCI
