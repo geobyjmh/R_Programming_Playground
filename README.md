@@ -52,6 +52,9 @@ This is a play with calculation and displaying Confidence Intervals
 # logical_vectors
 This looks at logical vectors 
 
+# norm_functions
+This code plays with rnorm and pnorm
+
 # Resources
 Book - “R for Data Science” by Wickham, Cetinkaya-Rundel, and Grolemund.
 https://amzn.eu/d/1dTMDCI
